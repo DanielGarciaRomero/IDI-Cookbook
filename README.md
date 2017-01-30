@@ -1,2 +1,4 @@
-# IDI-Cookbook
-IDI - Interacció i Disseny d'Interfícies, FIB - Facultad de Informática de Barcelona
+# IDI - Cookbook
+Daniel García Romero
+
+Nota: 10
